@@ -1,0 +1,5 @@
+torch
+datasets>=3.0.0
+tiktoken>=0.7.0
+pyarrow
+huggingface_hub
